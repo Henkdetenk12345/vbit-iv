@@ -11,7 +11,7 @@ A network server listens for remote control commands so you can select pages by 
 
 # Installation
 
-Head on over to the Wiki page https://github.com/peterkvt80/vbit-iv/wiki for current instructions.
+Head on over to the Wiki page https://github.com/Henkdetenk12345/vbit-iv/wiki for current instructions.
 
 Below are older instructions.
 
