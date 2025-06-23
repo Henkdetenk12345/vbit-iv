@@ -23,8 +23,6 @@
 # SOFTWARE.
 print('VBIT-iv System started')
 
-print('VBIT-iv System started')
-
 import sys
 import time
 from ttxpage import TTXpage
@@ -216,6 +214,3 @@ except KeyboardInterrupt:
     print("Keyboard interrupt")
 finally:
     print("vbit-iv clean up")
-
-finally:
-    print("vbit-iv clean up") 
